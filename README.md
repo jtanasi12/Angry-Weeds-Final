@@ -78,4 +78,4 @@ We appreciate your contributions and will review the pull request as soon as pos
 
 The Angry Weeds project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code in accordance with the terms specified in the license.
 
-Please note that this repository is for educational purposes and primarily intended for the software engineering class. Thank you, enjoy! 
+Please note that this repository is for educational purposes and primarily intended for the software engineering class. Thank you, please enjoy! 
